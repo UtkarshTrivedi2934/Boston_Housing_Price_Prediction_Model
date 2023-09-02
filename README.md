@@ -1,12 +1,2 @@
 # Boston_Housing_Price_Prediction_Model
-Key Features:
-
-Accurate Price Estimations: The model is trained on a comprehensive dataset that includes a variety of factors influencing housing prices, such as location, property size, crime rates, accessibility to amenities, and more. By analyzing these intricate relationships, the model can generate highly accurate price predictions for various types of residential properties.
-
-Feature Engineering: The model employs sophisticated feature engineering techniques to extract meaningful information from the input data. It identifies relevant patterns and correlations, capturing the nuanced dynamics that contribute to property values in the Boston area.
-
-Regression Algorithms: Built upon powerful regression algorithms, the model applies techniques like linear regression, decision trees, random forests, and gradient boosting. These algorithms enable it to learn from historical data and make predictions based on the patterns it uncovers.
-
-Data Preprocessing: The model incorporates comprehensive data preprocessing steps, including handling missing values, scaling features, and encoding categorical variables. These steps ensure that the input data is clean, consistent, and optimized for accurate predictions.
-
-Evaluation Metrics: To guarantee the model's reliability, it employs industry-standard evaluation metrics such as mean squared error (MSE) and root mean squared error (RMSE). These metrics quantify the model's predictive performance and provide a clear understanding of its accuracy.
+The Boston House Prediction Model is a powerful machine learning algorithm designed to estimate housing prices in the Boston area. This model boasts an impressive mean accuracy of 86%, making it a reliable tool for predicting real estate values in this competitive market. Built on the foundation of the Gradient Descent optimization technique, this model efficiently fine-tunes its parameters to minimize prediction errors and maximize accuracy. By leveraging Gradient Descent, it can adapt and learn from the available data, continuously improving its ability to provide accurate price predictions for various types of houses in the Boston area. Whether you're a homebuyer looking for a fair deal or a seller aiming to price your property competitively, the Boston House Prediction Model can be an invaluable resource to guide your real estate decisions.
